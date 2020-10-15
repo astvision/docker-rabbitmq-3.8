@@ -1,4 +1,5 @@
 [rabbitmq_management,
+rabbitmq_stomp,
 rabbitmq_peer_discovery_etcd,
 rabbitmq_federation,
 rabbitmq_federation_management,
